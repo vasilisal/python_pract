@@ -1,2 +1,2 @@
 # python_pract
-Решения практических работ с сайта https://dementiy.github.io»
+Решения практических работ с сайта https://dementiy.github.io
